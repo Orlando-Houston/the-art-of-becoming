@@ -18,3 +18,6 @@ In the repository `Orlando-Houston/the-art-of-becoming`, upload the five site fi
 - Improved category label spacing and reading comfort.
 - Better alignment for the standalone portfolio page.
 - CSS cache-busting on both pages (`style.css?v=5`) to avoid an old browser stylesheet.
+
+## v6 demo links
+The Cloud Data Center project now has separate **Live Demo** and **View Source Code** links, both on the homepage and the Portfolio page.
