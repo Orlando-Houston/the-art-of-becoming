@@ -21,3 +21,8 @@ In the repository `Orlando-Houston/the-art-of-becoming`, upload the five site fi
 
 ## v6 demo links
 The Cloud Data Center project now has separate **Live Demo** and **View Source Code** links, both on the homepage and the Portfolio page.
+
+## v7 Salesforce Data 360
+- Added Data Cloud Mission live demo and source links.
+- Added Data 360 Match & Learn 2.0 live demo and source links.
+- Upload only to `Orlando-Houston/the-art-of-becoming`, not either project repository.
