@@ -13,3 +13,8 @@ Personal website for Altun Keskin, including the **Stories of Light and Shadow**
 In the repository `Orlando-Houston/the-art-of-becoming`, upload the five site files from this ZIP and replace the existing versions when prompted. Keep files in repository root. GitHub Pages will rebuild after committing changes.
 
 `index.html`, `portfolio.html`, `style.css`, `script.js`, `README.md`
+
+## v5 visual fix
+- Improved category label spacing and reading comfort.
+- Better alignment for the standalone portfolio page.
+- CSS cache-busting on both pages (`style.css?v=5`) to avoid an old browser stylesheet.
