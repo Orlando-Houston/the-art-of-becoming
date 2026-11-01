@@ -26,3 +26,9 @@ The Cloud Data Center project now has separate **Live Demo** and **View Source C
 - Added Data Cloud Mission live demo and source links.
 - Added Data 360 Match & Learn 2.0 live demo and source links.
 - Upload only to `Orlando-Houston/the-art-of-becoming`, not either project repository.
+
+## v8 ASA case study
+- New `asa-case-study.html` page with six sections: problem, solution, architecture, features, challenges, skills.
+- Links from home and portfolio to dedicated case study.
+- Conceptual diagram and transparent statements about unverified outcomes.
+- Upload **all six files** to `Orlando-Houston/the-art-of-becoming` only.
